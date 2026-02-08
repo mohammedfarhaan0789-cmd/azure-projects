@@ -16,7 +16,7 @@ Implemented security best practices with RBAC and NSG
 ### [Project 3: Azure Web App with MySQL](https://github.com/mohammedfarhaan0789-cmd/azure-projects/tree/master/project-3-web-app-mysql)
 Integrated Web App with MySQL database on Linux VM
 
-### [Project 4: Hybrid Identity](https://github.com/mohammedfarhaan0789-cmd/azure-projects/tree/master/project-4-hybrid-identity)
+### [Project 4: Hybrid Identity](https://github.com/mohammedfarhaan0789-cmd/azure-projects/tree/master/Project-4-Hybrid-Identity)
 On-Premises Active Directory to Microsoft Entra ID Synchronization using Microsoft Entra Connect
 
 
