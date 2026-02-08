@@ -14,8 +14,11 @@ Deployed Nginx web server with security and monitoring
 Implemented security best practices with RBAC and NSG
 
 ### [Project 3: Azure Web App with MySQL](https://github.com/mohammedfarhaan0789-cmd/azure-projects/tree/master/project-3-web-app-mysql)
-
 Integrated Web App with MySQL database on Linux VM
+
+### [Project 4: Hybrid Identity](https://github.com/mohammedfarhaan0789-cmd/azure-projects/tree/master/project-4-hybrid-identity)
+On-Premises Active Directory to Microsoft Entra ID Synchronization using Microsoft Entra Connect
+
 
 ## 📜 Certifications
 - Microsoft Certified: Azure Fundamentals (AZ-900)
