@@ -19,3 +19,4 @@ Deployed Azure Web App integrated with MySQL database running on Linux Virtual M
 
 ## Documentation
 [View Detailed PDF Documentation](https://github.com/mohammedfarhaan0789-cmd/azure-projects/tree/master/project-3-web-app-mysql/Azure_WebApp_VNet_Integration.pdf)
+[View Source Code](https://github.com/mohammedfarhaan0789-cmd/azure-projects/blob/main/project-3-web-app-mysql/commands.txt)
